@@ -117,6 +117,7 @@ nav a:hover {
 }
 
 .linha{
+    text-align: center;
     width: 2000px; 
     height: 300px
 }
