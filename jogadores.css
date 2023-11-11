@@ -1,0 +1,67 @@
+.titulo-principal {
+    position: absolute;
+    font-size: 45px;
+    margin: auto;
+}
+.titulo-principal {
+    color: blue
+}
+
+.titulo-principal {
+    padding-left: 20px
+}
+
+.lootie {
+    padding-left: 38%;
+    width:60px; 
+    height:60px
+}
+
+.tudo{
+    background: #CCCCCC;
+}
+
+.principal {
+    padding: 3px;
+}
+
+.barcelona {
+    width: 75px;
+    height: 75px;
+    background: transparent;
+    bottom: 75px;
+}
+
+nav {
+    position: absolute
+}
+
+nav{
+    top: 5px 
+}
+
+nav{
+    right: 50px;
+}
+
+nav li {
+    display: inline
+}
+
+nav li {
+    margin: 0 0 0 15px;
+}
+
+nav a {
+    text-transform: uppercase;
+    color: #000000;
+    font-weight: bold;
+    font-size: 30px;
+    text-decoration: none;
+}
+
+
+nav a:hover {
+    text-decoration: underline;
+    color: #af001d
+}
