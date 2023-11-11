@@ -28,7 +28,7 @@
 .barcelona {
     width: 75px;
     height: 75px;
-    background: #000000;
+    background: transparent;
     bottom: 75px;
 }
 
@@ -118,6 +118,6 @@ nav a:hover {
 
 .linha{
     background-color: #000000;
-    width: 1000px; 
-    height: 300px
+    width: 0px; 
+    height: 0px
 }
