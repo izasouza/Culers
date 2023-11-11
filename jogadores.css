@@ -65,3 +65,52 @@ nav a:hover {
     text-decoration: underline;
     color: #af001d
 }
+
+.jogadores {
+    width: 940px;
+    margin: 0 auto;
+    padding: 50px 0;
+}
+
+.jogadores li {
+    border-radius: 10px;
+    border-style: solid;
+    border-width: 2px;
+    border-color: #000000;
+    box-sizing: border-box;
+    padding: 45px 40px;
+    margin: 0 1.2%;
+    vertical-align: top;
+    width: 30%;
+    text-align: center;
+    display: inline-block
+}
+
+.jogadores li:hover {
+    border-color: #af001d
+}
+
+
+.jogadores li:active {
+    border-color: blue;
+}
+
+.jogadores li:hover h2 {
+    font-size: 34px;
+}
+
+.jogadores h2 {
+    font-size: 30px;
+    font-weight: bold;
+}
+
+.jogadores-descricao {
+    font-size: 18px;
+}
+
+.temporada {
+    color: #af001d;
+    font-size: 50px;
+    text-align: center;
+    font-weight: bold
+}
