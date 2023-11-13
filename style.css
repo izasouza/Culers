@@ -80,7 +80,6 @@ nav a:hover {
 
 .seta {
     width: 50px; 
-    bottom: 100px
 }
 
 .seta {
@@ -89,6 +88,7 @@ nav a:hover {
     height: 50px
 }
 .img {
+    bottom: 50px;
     padding: 3px;
     background: #CCCCCC;
 }
