@@ -91,3 +91,7 @@ nav a:hover {
     padding: 3px;
     background: #CCCCCC;
 }
+
+img {
+    text-align: center;
+}
