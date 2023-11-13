@@ -78,15 +78,12 @@ nav a:hover {
     font-weight: bold; 
 }
 
-.seta {
+.seta { 
+    margin-top: 70px;
     width: 50px; 
+    height: 50px 
 }
 
-.seta {
-    padding: 3px;
-    height: 50px
-}
 .img {
-    padding: 3px;
     background: #CCCCCC;
 }
