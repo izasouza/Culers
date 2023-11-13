@@ -76,3 +76,15 @@ nav a:hover {
     font-size: 18px;
     font-weight: bold; 
 }
+
+.seta {
+    width: 50px; 
+    bottom: 30px
+}
+
+.seta {
+    height: 50px
+}
+.img {
+    background: #CCCCCC;
+}
