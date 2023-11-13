@@ -66,8 +66,9 @@ nav a:hover {
     color: #af001d
 }
 
-#campnou {
+.estadio {
     width: 100%;
+    text-align: center;
 }
 
 .descricao {
@@ -90,8 +91,4 @@ nav a:hover {
 .img {
     padding: 3px;
     background: #CCCCCC;
-}
-
-img {
-    margin: auto;
 }
