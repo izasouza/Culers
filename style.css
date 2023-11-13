@@ -69,3 +69,9 @@ nav a:hover {
 #campnou {
     width: 100%;
 }
+
+.descricao {
+    text-align: center;
+    font-size: 26px;
+    font-weight: bold; 
+}
