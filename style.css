@@ -71,13 +71,15 @@ nav a:hover {
     text-align: center;
 }
 
-p {
+.paragrafo{
     background: #CCCCCC;
-    text-align: center;
-    font-weight: bold;
     font-size: 20;
+    font-weight: bold;
 }
 
+
 .seta {
-    
+    text-align: center;
+    width: 300px; 
+    height: 300px;
 }
