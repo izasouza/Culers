@@ -70,7 +70,7 @@ nav a:hover {
     width: 100%;
 }
 
-p {
+.descricao {
     background: #CCCCCC;
     text-align: right;
     font-size: 18px;
@@ -79,11 +79,14 @@ p {
 
 .seta {
     width: 50px; 
-    bottom: 50px
+    bottom: 70px
 }
 
 .seta {
     padding: 3px;
     background: #CCCCCC;
     height: 50px
+}
+.img {padding: 3px;
+    background: #CCCCCC;
 }
