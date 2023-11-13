@@ -71,3 +71,8 @@ nav a:hover {
     text-align: center;
 }
 
+p {
+    text-align: center;
+    font-weight: bold;
+    font-size: 20;
+}
