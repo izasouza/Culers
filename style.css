@@ -78,6 +78,11 @@ nav a:hover {
     font-weight: bold;
 }
 
+.club {
+    color: blue;
+    font-size: 30;
+}
+
 
 .seta {
     padding-left: 40%; 
