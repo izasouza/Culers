@@ -106,3 +106,9 @@ nav a:hover {
 .viscabarca {
     text-align: center;
 }
+
+.agradecimento {
+    background: transparent;
+    width: 700px;
+    height: 700px;
+}
