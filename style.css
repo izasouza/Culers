@@ -107,8 +107,8 @@ nav a:hover {
     text-align: center;
 }
 
-.agradecimento {
+footer {
     background: transparent;
-    width: 700px;
-    height: 700px;
+    height: 300px;
+    width: 300px;
 }
