@@ -65,3 +65,48 @@ nav a:hover {
     text-decoration: underline;
     color: #af001d
 }
+
+.ligas {
+    width: 940px;
+    margin: 0 auto;
+    padding: 50px 0;
+}
+
+.ligas li {
+    border-radius: 10px;
+    border-style: solid;
+    border-width: 2px;
+    border-color: #000000;
+    box-sizing: border-box;
+    padding: 45px 40px;
+    margin: 0 1.2%;
+    vertical-align: top;
+    width: 30%;
+    text-align: center;
+    display: inline-block
+}
+
+.ligas li:hover {
+    border-color: #af001d
+}
+
+
+.ligas li:active {
+    border-color: blue;
+}
+
+.ligas li:hover h2 {
+    font-size: 34px;
+}
+
+.ligas h2 {
+    font-size: 30px;
+    font-weight: bold;
+}
+
+.trofeis {
+    color: #af001d;
+    font-size: 50px;
+    text-align: center;
+    font-weight: bold
+}
