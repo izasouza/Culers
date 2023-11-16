@@ -117,8 +117,4 @@ nav a:hover {
     background: transparent;
 }
 
-.animacao {
-    background-image: script src="https://unpkg.com/@dotlottie/player-component@latest/dist/dotlottie-player.mjs" type="module"
-    dotlottie-player src="https://lottie.host/67d52009-0b5d-4299-b6b5-9912dcacaef7/UhbpVkQZVI.json" speed="1" loop autoplay dotlottie-player
-}
 
