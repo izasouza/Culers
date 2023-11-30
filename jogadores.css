@@ -1,3 +1,7 @@
+body {
+    background-image: image(fundo.jpg);
+}
+
 .titulo-principal {
     position: absolute;
     font-size: 45px;
