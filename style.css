@@ -69,13 +69,12 @@ nav a:hover {
 
 .paragrafo {
     text-align: center;
-    background: #CCCCCC;
     font-size: 24px;
     font-weight: bold;
 }
 
 .club {
-    color: blue;
+    color: white;
     font-size: 30;
 }
 
@@ -89,14 +88,13 @@ nav a:hover {
 
 .textinho {
     text-align: center;
-    background: #CCCCCC;
     font-size: 24px;
     font-weight: bold;
 }
 
 .frase {
     font-size: 38px;
-    color: #af001d;
+    color: #ffffff;
 }
 
 .viscabarca {
