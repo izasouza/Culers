@@ -4,7 +4,7 @@
     margin: auto;
 }
 .titulo-principal {
-    color: blue
+    color: #ffffff
 }
 
 .titulo-principal {
@@ -15,10 +15,6 @@
     padding-left: 38%;
     width:60px; 
     height:60px
-}
-
-.tudo{
-    background: #CCCCCC;
 }
 
 .principal {
@@ -54,7 +50,7 @@ nav li {
 
 nav a {
     text-transform: uppercase;
-    color: #000000;
+    color: #ffffff;
     font-weight: bold;
     font-size: 30px;
     text-decoration: none;
@@ -63,7 +59,7 @@ nav a {
 
 nav a:hover {
     text-decoration: underline;
-    color: #af001d
+    color: black
 }
 
 .estadio {
@@ -105,4 +101,8 @@ nav a:hover {
 
 .viscabarca {
     text-align: center;
+}
+
+body {
+    background-size: cover;
 }
