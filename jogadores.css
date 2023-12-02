@@ -122,9 +122,11 @@ h2 {
 }
 
 footer {
-    display: inline;
-    margin: 0 0 0 15px;
     padding: 50px 0;
     background: url("footer.jpeg")
 }
 
+.marcas {
+    display: inline;
+    margin: 0 0 0 15px;
+}
