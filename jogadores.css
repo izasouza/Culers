@@ -128,7 +128,7 @@ footer {
 }
 
 .BARCELONA {
-    margin-top: 0.01%;
+    max-height: 50px;
 	color: #FFFFFF;
 	font-size: 30px;
 }
