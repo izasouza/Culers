@@ -122,11 +122,9 @@ h2 {
 }
 
 footer {
+    display: inline;
+    margin: 0 0 0 15px;
     padding: 50px 0;
     background: url("footer.jpeg")
 }
 
-.patrocinadores {
-    display: inline;
-    margin: 0 0 0 15px;
-}
