@@ -127,7 +127,6 @@ footer {
 }
 
 .marcas {
-    position: absolute;
-    display: inline;
+    display: inline-block;
     margin: 0 0 0 15px;
 }
