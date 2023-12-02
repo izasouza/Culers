@@ -125,6 +125,6 @@ footer {
     background: url("footer.jpeg")
 }
 
-.marcas {
+.marcas li {
     display: inline;
 }
