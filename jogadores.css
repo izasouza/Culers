@@ -124,6 +124,7 @@ h2 {
 footer {
     padding: 80px 0;
     text-align: center;
+    background-size: cover;
     background: url("footer.jpeg")
 }
 
